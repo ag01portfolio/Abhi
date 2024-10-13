@@ -1,0 +1,9 @@
+Command to create vite app --> npm create vite@latest
+
+
+Command to run the build 
+    npm run dev
+
+To create a vite Porduction build
+    npm run build
+    npm run preview
